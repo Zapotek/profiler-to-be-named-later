@@ -1,8 +1,6 @@
-# Ruby profiler to be named later
+# Codename Mzr (pronounced "measure")
 
-Hello, I'm [Tasos Laskos](https://twitter.com/Zap0tek),  founder and lead developer of the [Arachni Web Application Security Scaner Framework](http://www.arachni-scanner.com), and this is a call for contributors for a  new project.
-
-If you're interested [let me know](https://github.com/Zapotek/profiler-to-be-named-later/issues/1).
+Hello, I'm [Tasos Laskos](https://twitter.com/Zap0tek), founder and lead developer of the [Arachni Web Application Security Scaner Framework](http://www.arachni-scanner.com), and this is a call for contributors for a Ruby profiler project codenamed Mzr.
 
 ## Basic idea
 
